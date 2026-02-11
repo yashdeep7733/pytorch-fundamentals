@@ -4,11 +4,11 @@ A friendly implementation of Linear Regression using PyTorch to understand how n
 
 This project demonstrates:
 
-• Creating data using known parameters
-• Building a nn.Module model with trainable weights & bias
-• Training with Gradient Descent (SGD)
-• Using Autograd + Backpropagation
-• Loss optimization with L1 (MAE) loss
+• Creating data using known parameters<br>
+• Building a nn.Module model with trainable weights & bias<br>
+• Training with Gradient Descent (SGD)<br>
+• Using Autograd + Backpropagation<br>
+• Loss optimization with L1 (MAE) loss<br>
 • Manual training & evaluation loop (no high-level shortcuts)
 
 Instead of using nn.Linear, the weights and bias are defined manually to clearly show how parameters update during training.
