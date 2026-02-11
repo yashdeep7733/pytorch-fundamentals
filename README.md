@@ -31,7 +31,7 @@ python /basic-pytorch-neural-network.py
 ```
 
 <p align="center">
-  <img src="image10.png" width="500"/>
   <img src="image20.png" width="500"/>
+  <img src="image10.png" width="500"/>
   <img src="image30.png" width="500"/>
 </p>
